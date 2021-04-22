@@ -1,2 +1,1 @@
-# pythonProject
-This is for practice.
+# Minor project based on PYTHON programming
