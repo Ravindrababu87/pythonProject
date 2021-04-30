@@ -1,3 +1,6 @@
+#the user=ravindra and pin=4387 are the only valid inputs
+#if we give other inputs it shows incorrect
+#the elements in the keypad always shuffles,it can be verified while we run the program twice
 import random
 import tkinter as tk
 
