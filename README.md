@@ -1,6 +1,6 @@
 # SHUFFLING OF NUMBERS IN KEYPAD
 ## Description
-##### This project enable the user to enter the correct pin and ensure thet the positions of the numbers always changes so that there will be no chance that the other person may know the pin by their positions.
+#### This project enable the user to enter the correct pin and ensure thet the positions of the numbers always changes so that there will be no chance that the other person may know the pin by their positions.
 ## Output when the user enter the invalid inputs
 ![invalid](https://user-images.githubusercontent.com/81628668/116788551-dc874b00-aac7-11eb-8683-f2a4b85cd64e.png)
 
